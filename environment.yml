@@ -1,0 +1,13 @@
+name: sandbox
+channels:
+  - conda-forge
+dependencies:
+  # Core scientific python
+  - numpy
+  - matplotlib
+  - pandas
+
+  # Jupyter Environment
+  - notebook
+  - ipython
+  - jupyter_contrib_nbextensions
