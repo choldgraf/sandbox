@@ -1,0 +1,8 @@
+channels:
+    - conda-forge
+    - damianavila82 
+dependencies:
+    - numpy
+    - matplotlib
+    - pandas
+    - RISE
