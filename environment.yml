@@ -2,5 +2,7 @@ channels:
     - conda-forge
     - damianavila82 
 dependencies:
+    - python=3.6
     - RISE
-    - anaconda
+    - matplotlib
+    - numpy
